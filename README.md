@@ -11,3 +11,6 @@ would like to enter and it will update the display with the measurements for tha
 In the beginning, however, if the modes and their numbers are not committed to memory, pressing 
 the one (1) button at any time will return to the home screen with the mode selections displayed. The 
 user may then start again entering a new mode for measurement.
+
+[1] COM-08653 Keypad
+[2] Texas Instruments MSP432P401R
